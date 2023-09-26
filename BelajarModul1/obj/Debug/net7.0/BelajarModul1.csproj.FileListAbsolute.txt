@@ -1,0 +1,14 @@
+C:\Users\brian\RiderProjects\BelajarModul1\bin\Debug\net7.0\BelajarModul1.exe
+C:\Users\brian\RiderProjects\BelajarModul1\bin\Debug\net7.0\BelajarModul1.deps.json
+C:\Users\brian\RiderProjects\BelajarModul1\bin\Debug\net7.0\BelajarModul1.runtimeconfig.json
+C:\Users\brian\RiderProjects\BelajarModul1\bin\Debug\net7.0\BelajarModul1.dll
+C:\Users\brian\RiderProjects\BelajarModul1\bin\Debug\net7.0\BelajarModul1.pdb
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.AssemblyInfoInputs.cache
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.AssemblyInfo.cs
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.csproj.CoreCompileInputs.cache
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.dll
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\refint\BelajarModul1.dll
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.pdb
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\BelajarModul1.genruntimeconfig.cache
+C:\Users\brian\RiderProjects\BelajarModul1\obj\Debug\net7.0\ref\BelajarModul1.dll
