@@ -130,8 +130,8 @@ namespace _1014vga
 class Laptop
 {
     public string merk, tipe;
-    public Processor processor { get; set; } 
     public Vga vga { get; set; }
+    public Processor processor { get; set; } 
 
     public void LaptopDinyalakan()
     {
